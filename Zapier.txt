@@ -33,7 +33,6 @@ Zapier
 		Log_taskz [m4m]
 		Log_taskz [Taskz/Repeat]
 		Log_taskz [Avito]
-		Log_taskz [Notes]
 
 =========================================================================================================================================================
 • zapier2+basmanovdv@gmail.com
