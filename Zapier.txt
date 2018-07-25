@@ -35,7 +35,7 @@ Zapier
 		Log_taskz [Avito]
 
 =========================================================================================================================================================
-• zapier2+basmanovdv@gmail.com
+• zapier3+basmanovdv@gmail.com
 		
 	Google Tasks --> Dropbox		| Проверяет завершенные таски в Google Tasks, если статус compete --> Записывает строчку в Dropbox\Log\tasks_log.txt
 		
