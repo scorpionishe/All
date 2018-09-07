@@ -3,19 +3,22 @@ Zapier
 Аккаунты (бесплатный план предполагает использование не более 5-ти триггеров):
 
 • basmanovdv@gmail.com
-	Airtable --> Google Tasks				|  Проверяет новые записи в таблицах и добавляет в Google Tasks [Taskz/Repeat]. Настроено для таблиц Доход/Расход:
+	Airtable --> Google Tasks								|  Проверяет новые записи в таблицах и добавляет в Google Tasks [Taskz/Repeat]. Настроено для таблиц Доход/Расход:
 		Airtable [Доход] --> Task [Доход]
 		Airtable [Доход] --> Task [Расход]
+		Airtable [Task for Dra] -->	Todoist [Create Task]	|  Проверяет новые записи в таблицах и добавляет в задачу в Todoist Dra
+	Pocket --> Poket 										|  Проверяет записи с тегом "to_dra" в аккаунте scorpionishe и добавляет в аккаунт Dra
 	
-	Pocket --> Poket 						|  Проверяет записи с тегом "to_dra" в аккаунте scorpionishe и добавляет в аккаунт Dra
-	
-	RSS --> Poket 							|  Проверяет новые записи в RSS потоках и добавляет в Pocket. Настроено для RSS-лент:
+	RSS --> Poket 											|  Проверяет новые записи в RSS потоках и добавляет в Pocket. Настроено для RSS-лент:
 		Randompic [Livejournal]
 		ТО «420» [Youtube]
 =========================================================================================================================================================
 • zapier1+basmanovdv@gmail.com
 	
 	[Отключено] Airtable --> Dropbox 		|	Проверяет новые записи в таблице Books и скачивает файл в папку Dropbox\Bookz
+	
+	Todoist -- > Google Tasks
+		Task from Dra						|  Проверяет новые таски в Todoist Dra и добовляет в Tasks [From Dra]
 	
 	RSS --> Poket 							|	Проверяет новые записи в RSS потоках и добавляет в Pocket. Настроено для RSS-лент: 
 		Filmbilder [Youtube]
