@@ -1,10 +1,16 @@
-
 Плагины:
+
 	Russian Language Pack for Visual Studio Code
 	Better Comments
 	Material Icon Theme
+    JS-CSS-HTML Formatter
+    Russian Language Pack for Visual Studio Code
+    snippet-creator
+    VSCode Great Icons
+    vscode-pdf
+    XML Tools
 
-Настройки ()
+Настройки:
 {
     "workbench.iconTheme": "material-icon-theme",
     "workbench.statusBar.visible": true,
