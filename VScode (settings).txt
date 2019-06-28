@@ -1,14 +1,14 @@
 Плагины:
 
-	Russian Language Pack for Visual Studio Code
-	Better Comments
-	Material Icon Theme
-    JS-CSS-HTML Formatter
-    Russian Language Pack for Visual Studio Code
-    snippet-creator
-    VSCode Great Icons
-    vscode-pdf
-    XML Tools
+Russian Language Pack for Visual Studio Code
+Better Comments
+Material Icon Theme
+JS-CSS-HTML Formatter
+Russian Language Pack for Visual Studio Code
+Snippet-creator
+VSCode Great Icons
+Vscode-pdf
+XML Tools
 
 Настройки:
 {
