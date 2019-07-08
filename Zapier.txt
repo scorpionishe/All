@@ -4,12 +4,12 @@ Zapier
 Бесплатный план - использование не более 5-ти триггеров:
 
     • basmanovdv@gmail.com
-        Airtable --> Google Tasks								|  Проверяет новые записи в таблицах и добавляет в Google Tasks [Taskz/Repeat]. Настроено для таблиц Доход/Расход:
+        Airtable --> Google Tasks								|	Проверяет новые записи в таблицах и добавляет в Google Tasks [Taskz/Repeat]. Настроено для таблиц Доход/Расход:
             Airtable [Доход] --> Task [Доход]
             Airtable [Доход] --> Task [Расход]
-            Airtable [Task for Dra] -->	Todoist [Create Task]	|  Проверяет новые записи в таблицах и добавляет в задачу в Todoist Dra
+            Airtable [Task for Dra] -->	Todoist [Create Task]	|	Проверяет новые записи в таблицах и добавляет в задачу в Todoist Dra
 
-        Pocket --> Poket 										|  Проверяет записи с тегом "to_dra" в аккаунте scorpionishe и добавляет в аккаунт Dra
+        Pocket --> Poket 										|	Проверяет записи с тегом "to_dra" в аккаунте scorpionishe и добавляет в аккаунт Dra
 
 =========================================================================================================================================================
     • zapier1+basmanovdv@gmail.com
@@ -17,4 +17,7 @@ Zapier
         Todoist -- > Google Tasks
             Task from Dra										|	Проверяет новые таски в Todoist Dra и добовляет в Tasks [From Dra]
 =========================================================================================================================================================
-zzzz
+	• basmanovdvzapier1@mail.ru
+
+		Webhook [Zapier] --> Google Tasks
+			[Alfred] Create task to [Serialz/Cinemaz/Muz]		|	Ловит запрос из Alfred'а в сервис Zapier Webhook и создаёт таску в список "Serialz/Cinemaz/Muz" Google Tasks
