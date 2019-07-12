@@ -3,7 +3,7 @@ Zapier
 Аккаунты:
 (Бесплатный план использования - не более 5-ти триггеров)
 
-    • basmanovdv@gmail.com
+!   • basmanovdv@gmail.com // full  
         Airtable --> Google Tasks								|	Проверяет новые записи в таблицах и добавляет в Google Tasks [Taskz/Repeat]
             Airtable [Доход] --> Task [Доход]                   |   Настроено для таблиц "Доход"/"Расход"
             Airtable [Доход] --> Task [Расход]
