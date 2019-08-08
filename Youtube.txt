@@ -1,11 +1,11 @@
 
 Полезное для Ютубы
 
-    Переход к любой части видео      | Добавить к ссылке &t=YmXXs, где Y - минуты, XX - секунды                
-    Поставить на повтор              | Заменить youtube.com на youtuberepeater.com                             
-    Обойти возрастные ограничения    | Удалить watch? из ссылки                                                
-    Время старта видео               | Добавить к ссылке start=30 (секунды)                                    
-    Скачать видео                    | Заменить youtube.com на pwnyoutube.com/ssyoutube.com/kickyoutube.com    
-    Переключите YouTube в режиме TV  | youtube.com/tv                                                          
+    Переход к любой части видео      | Добавить к ссылке &t=YmXXs, где Y - минуты, XX - секунды
+    Поставить на повтор              | Заменить youtube.com на youtuberepeater.com
+    Обойти возрастные ограничения    | Удалить watch? из ссылки
+    Время старта видео               | Добавить к ссылке start=30 (секунды)
+    Скачать видео                    | Заменить youtube.com на pwnyoutube.com/ssyoutube.com/kickyoutube.com
+    Переключите YouTube в режиме TV  | youtube.com/tv
     Получить картинку-превью         | Вставить ID видео в адрес img.youtube.com/vi/[VideoID]/maxresdefault.jpg
-    Получить гифку из видео          | Заменить youtube.com на gifyoutube.com                                  
+    Получить гифку из видео          | Заменить youtube.com на gifyoutube.com
