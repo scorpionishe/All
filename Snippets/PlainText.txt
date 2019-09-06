@@ -1,7 +1,3 @@
-Сниппеты
-
-• Для PlainText
-
     {
     "Список с маркерами \"—\"": {
         "prefix": "список с маркерами \"—\"",
@@ -124,71 +120,3 @@
         "description": "Плейсхолдер \"<object>\""
     }
 }
-
-• Для JSON/JSONC (with comments)
-    
-    {
-        "Ключ-значение": {
-            "prefix": "Ключ-значение",
-            "body": [
-                "\"<key>\": \"<value>\"",
-            ],
-            "description": "Плейсхолдер \"<key>\": \"<value>\""
-        },
-        "Ключ-значение + запятая": {
-            "prefix": "Ключ-значение + запятая",
-            "body": [
-                "\"<key>\": \"<value>\",",
-            ],
-            "description": "Плейсхолдер \"<key>\": \"<value>\","
-        },
-        "Плейсхолдер \"<value>\"": {
-            "prefix": "value",
-            "body": [
-                "\"<value>\""
-            ],
-            "description": "Плейсхолдер \"<value>\""
-        },
-        "Плейсхолдер \"<int>\"": {
-            "prefix": "int",
-            "body": [
-                "\"<int>\""
-            ],
-            "description": "Плейсхолдер \"<int>\""
-        },
-        "Плейсхолдер \"<string>\"": {
-            "prefix": "string",
-            "body": [
-                "\"<string>\""
-            ],
-            "description": "Плейсхолдер \"<string>\""
-        },
-        "Плейсхолдер \"<date>\"": {
-            "prefix": "date",
-            "body": [
-                "\"<date>\""
-            ],
-            "description": "Плейсхолдер \"<date>\""
-        },
-        "Плейсхолдер \"<boolean>\"": {
-            "prefix": "boolean",
-            "body": [
-                "\"<boolean>\""
-            ],
-            "description": "Плейсхолдер \"<boolean>\""
-        },
-        "Плейсхолдер \"<array>\"": {
-            "prefix": "array",
-            "body": [
-                "\"<array>\""
-            ],
-            "description": "Плейсхолдер \"<array>\""
-        },
-        "Плейсхолдер \"<object>\"": {
-            "prefix": "object",
-            "body": [
-                "\"<object>\""
-            ],
-            "description": "Плейсхолдер \"<object>\""
-        }
-    }
