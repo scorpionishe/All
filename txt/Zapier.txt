@@ -10,7 +10,7 @@ Zapier
             Airtable [Task for Dra] -->	Todoist [Create Task]	|	Проверяет новые записи в таблицах и добавляет в задачу в Todoist Dra
         
         Webhook [Zapier] --> Google Tasks
-		    Create task from Alfred to "Serialz/Cinemaz/Muz"    |	"Ловит" запрос из Alfred'а в сервисе Zapier Webhook и создаёт
+		    Create task from Alfred to "Taskz/Repeat"           |	"Ловит" запрос из Alfred'а в сервисе Zapier Webhook и создаёт
                                                                 |   таску в список "Serialz/Cinemaz/Muz" GoogleTasks
 
         Pocket [Scorpionishe] --> Poket [Dra] 					|	Проверяет записи с тегом "to_dra" в аккаунте scorpionishe 
